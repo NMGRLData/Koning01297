@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0003793425156313555,
+        "error": 0.0006909264652330521,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 340,
         "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.05937405673517484
+        "value": 0.06022362604288567
     },
     "Ar37": {
         "error": 0.01629897698875147,
@@ -39,7 +39,7 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 2.597781597713143
+        "value": 2.5977815977131424
     },
     "Ar38": {
         "error": 0.005855870708654476,
@@ -58,10 +58,10 @@
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.744717157992967
+        "value": 0.7447171579929668
     },
     "Ar39": {
-        "error": 0.009355608077926845,
+        "error": 0.017051065222034607,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -70,7 +70,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 339,
         "include_baseline_error": false,
         "n": 340,
@@ -79,10 +79,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 22.560619179857994
+        "value": 22.57045797846161
     },
     "Ar40": {
-        "error": 0.045294944434026,
+        "error": 0.045294944434025,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -101,6 +101,6 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 149.30460276513222
+        "value": 149.3046027651322
     }
 }
